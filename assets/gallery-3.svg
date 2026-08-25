@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="#0a2010"/>
+  <rect x="20" y="20" width="200" height="200" fill="none" stroke="#c8ff00" stroke-width="4" stroke-dasharray="8 6"/>
+  <text x="120" y="110" text-anchor="middle" fill="#c8ff00" font-family="monospace" font-size="14">DIESEL MYSTIC</text>
+  <text x="120" y="135" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11">gallery-3</text>
+  <text x="120" y="160" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">redwoods TBD</text>
+</svg>

@@ -1,0 +1,21 @@
+# Train Invite 2026 / MORGOTH® — Project Rules (THIS FOLDER ONLY)
+
+## What this is
+This project is **art / a practical joke**, not a product. It is a purposeless gag website linked from a party invite letter. Entertainment and confusion are the only goals.
+
+## Exemption
+This folder is **EXEMPT** from parent `Buisnes/.cursorrules` and root Cursor professionalism / maintainability / “best practices” standards.
+
+- Intentional bad UX, confusing navigation, decoy buttons, cookie spam, and broken flows are required
+- AI-slop copy, mismatched fonts, fake ads, and corporate nonsense are the aesthetic
+- Harsh, psychedelic, R-rated, Gen Z slang, memes, and cussing are in-scope
+- Do **not** “fix” the design to look polished or accessible in a product sense
+
+## Hard limits (still apply)
+- No real auth, payments, analytics, or data collection
+- No forms that store user data
+- No real RSVP / ticket sales — logistics stay in the invite letter
+- Static HTML/CSS/JS only; keep it GitHub Pages friendly
+
+## When editing
+Prefer more chaos over cleaner code. Match existing gag voice (MORGOTH®, Train Coin®, CANDIDA®, PFDT, ChatGPTxGrok). Leave asset placeholders for logo and party screenshots.

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="#001428"/>
+  <rect x="20" y="20" width="200" height="200" fill="none" stroke="#0033ff" stroke-width="4" stroke-dasharray="8 6"/>
+  <circle cx="120" cy="100" r="28" fill="none" stroke="#ff4500" stroke-width="3"/>
+  <text x="120" y="150" text-anchor="middle" fill="#ff4500" font-family="monospace" font-size="14">FLOCK STILL</text>
+  <text x="120" y="170" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11">gallery-4</text>
+  <text x="120" y="190" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">surveillance TBD</text>
+</svg>
